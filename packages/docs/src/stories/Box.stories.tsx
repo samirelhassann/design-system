@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from "@ignite-ui/react";
+import { Box, BoxProps, Text } from "@saturn-design-system/react";
 import type { Meta, StoryObj } from "@storybook/react";
 
 export default {

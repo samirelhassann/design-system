@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@saturn-design-system/react",
   "version": "1.0.0",
   "description": "",
   "main": "./build/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@saturn-design-system/eslint-config": "*",
+    "@saturn-design-system/tokens": "*",
+    "@saturn-design-system/ts-config": "*",
     "@types/react": "^18.0.32",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",

@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@ignite-ui/tokens";
+} from "@saturn-design-system/tokens";
 import { createStitches } from "@stitches/react";
 
 export const {
