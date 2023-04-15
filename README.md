@@ -14,6 +14,7 @@ This project was built with the help of the [Rocketseat](https://www.rocketseat.
 ## Additional Libraries
 
 - storybook
+- stitches
 - radix-ui
 - tsup
 
