@@ -1,0 +1,2 @@
+import{A as t}from"./index.7b521276.js";import"./index.abaed8ca.js";import"./iframe.476f1f1e.js";import"./index.54d24071.js";import"./jsx-runtime.5b64f472.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/samirelhassann.png",alt:"Samir El Hassan"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.0c667577.js.map
