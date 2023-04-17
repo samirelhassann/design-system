@@ -14,8 +14,6 @@ import {
   ToastViewPort,
 } from "./styles";
 
-import { Text } from "../Text";
-
 export interface ToastProps extends ComponentProps<typeof ToastRoot> {
   swipeDirection: "up" | "down" | "left" | "right";
   title: string;
